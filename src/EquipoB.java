@@ -1,5 +1,6 @@
 import java.util.Iterator;
 
+//COLECCION CONCRETA >>> INTERFAZ ITERABLE COLLECTION
 public class EquipoB implements Iterable<String> {
 	
 	private String[] jugadores;

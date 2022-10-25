@@ -1,6 +1,8 @@
 import java.util.Iterator;
 
-public class IteradorEquipoB implements Iterator <String> {
+
+//ITERADOR CONCRETO >>> INTERFAZ ITERATOR
+public class IteradorEquipoB implements Iterator<String> {
 
 
 		private int pos = 0;

@@ -1,8 +1,10 @@
 import java.util.Iterator;
 
+//MAIN CLIENTE
 public class Seleccionador {
 
 	public static void main(String[] args) {
+		
 		EquipoA equipoA = new EquipoA();
 		EquipoB equipoB = new EquipoB();
 		

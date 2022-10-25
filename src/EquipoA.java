@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+//COLECCION CONCRETA >> INTERFAZ ITERABLE COLLECTION
 public class EquipoA implements Iterable<String>{
 
 	private List<String> jugadores;
